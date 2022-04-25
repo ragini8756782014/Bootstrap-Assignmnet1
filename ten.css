@@ -1,0 +1,13 @@
+.first{
+    overflow-x: hidden;
+}
+.squarebox{
+    max-width: 600px;
+    min-height: 600px;
+    border: 1px solid black;
+}
+.scroll{
+    height: 470px;
+     overflow-y: scroll;
+    
+}
